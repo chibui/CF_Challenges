@@ -41,7 +41,7 @@ class BankAccount
   end
 end
 
-bankalex = BankAccount.new(1234567890)
+bankalex = BankAccount.new(123456789)
 bankchi = BankAccount.new(987654321)
 
 alex = Customer.new("Alex", "fake@yahoo.com", bankalex, "666 Sky Av", 2357111317)
